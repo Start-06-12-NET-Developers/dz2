@@ -49,6 +49,7 @@ namespace User
             Console.WriteLine("Age: " + user.age);
             Console.WriteLine("Date: " + user.data);
 
+
             Console.ReadKey();
         }
     }
